@@ -1,3 +1,3 @@
 # Portfólio Lucas Dias Squinca
 
-## Acesse: [Nicitov.github.io](Nicitov.github.io)
+## Acesse: [https://nicitov.github.io](https://nicitov.github.io)
